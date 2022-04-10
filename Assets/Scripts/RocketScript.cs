@@ -71,7 +71,7 @@ public class RocketScript : MonoBehaviour
 
         if (nextLevelIndex == SceneManager.sceneCountInBuildSettings)
         {
-            nextLevelIndex = 1;
+            nextLevelIndex = 0;
         }
         SceneManager.LoadScene(nextLevelIndex);
     }

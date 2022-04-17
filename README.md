@@ -6,6 +6,6 @@ So far, the game is only available for Windows. To download the game, follow the
 Rocket.exe by clicking on it twice or by writing the path to the file and the file itself in the console
 
 ## Rocket control
-a/d - left/right rotation
-space - flight
+'a/d' - left/right rotation
+'space' - flight
 
